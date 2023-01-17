@@ -3,7 +3,9 @@ This repo is for my OpenCv study, including some codes and notes
 
 笔记地址：[OpenCv学习笔记](https://github.com/lyc686/blog/blob/main/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89OpenCV.md)
 
-代码中的函数列表：
+test.py作为read_show.py函数调用的包，包括了自定义的两个方法
+
+read_show.py代码中的函数列表：
 
 1.打印opencv版本号
 
